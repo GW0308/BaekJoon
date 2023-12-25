@@ -1,41 +1,41 @@
 {
   "files": {
-    "Main.java": [
+    "step_4/No2480.java": [
       {
-        "id": "75f2e0ea-f0c3-4211-a3f0-8c9adf4c83ff",
-        "line": 5,
-        "version": 824,
-        "index": 129
+        "id": "8962b553-2341-4bf2-b637-31c47d052f76",
+        "line": 1,
+        "version": 1586,
+        "index": 0
       },
       {
-        "id": "4404cb61-c62d-4be9-a2fc-ede89a623587",
-        "line": 5,
-        "version": 824,
-        "index": 129
+        "id": "c9d52569-a0e0-449c-9aa3-d68e9741a66a",
+        "line": 1,
+        "version": 1586,
+        "index": 0
       },
       {
-        "id": "eb32500d-cd2d-40f2-bdb6-41b0ae597304",
-        "line": 5,
-        "version": 824,
-        "index": 129
+        "id": "4428a6d6-c825-4e8c-813b-da5520f99930",
+        "line": 1,
+        "version": 1586,
+        "index": 0
       },
       {
-        "id": "e3bcb645-5b5f-410f-b0c4-0031008efa24",
-        "line": 15,
-        "version": 837,
-        "index": 358
+        "id": "85715b47-f6e0-44b5-874e-5f7da101ecdf",
+        "line": 1,
+        "version": 1586,
+        "index": 0
       },
       {
-        "id": "cd7a705b-fd01-446c-8f64-1356a77869f7",
-        "line": 19,
-        "version": 837,
-        "index": 460
+        "id": "9c61c828-b2c0-4d16-b7a9-0d6fa468562e",
+        "line": 1,
+        "version": 1586,
+        "index": 0
       },
       {
-        "id": "35d29df8-01ba-45e2-8169-20cc06389c2a",
-        "line": 22,
-        "version": 837,
-        "index": 508
+        "id": "3f65141b-cab8-4cad-ac51-cc39a6fedf8e",
+        "line": 1,
+        "version": 1586,
+        "index": 0
       }
     ]
   }

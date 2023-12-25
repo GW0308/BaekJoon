@@ -3,19 +3,18 @@
 // import org.junit.jupiter.api.Test;
 import java.util.Scanner;
 
-class Main {
+public class No2525 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    while(true){
       
-      int hours = sc.nextInt();
-      int minutes = sc.nextInt();
-      int times = sc.nextInt();
+    int hours = sc.nextInt();
+    int minutes = sc.nextInt();
+    int times = sc.nextInt();
 
-      if (times >= 60) {
+    if (times >= 60) {
         hours += times / 60;
         minutes += times % 60;
-      }
+    }
       else{
         minutes+=times;
       }
@@ -30,8 +29,6 @@ class Main {
       
 
       System.out.println(hours + " " + minutes);
-    }
-    
   }
 
 }

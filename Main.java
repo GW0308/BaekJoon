@@ -1,5 +1,5 @@
 class Main{
   public static void main(String args[]){
-    No5597.main(args);
+    No3052.main(args);
   }
 }

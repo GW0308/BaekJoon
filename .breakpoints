@@ -1,17 +1,11 @@
 {
   "files": {
-    "baekjoon/step_6/No10813.java": [
+    "baekjoon/step_6/No10811.java": [
       {
-        "id": "5c21f134-bbd0-45f6-ad0f-3cc305f2e6c8",
-        "line": 15,
-        "version": 716,
-        "index": 381
-      },
-      {
-        "id": "7f28fd43-d9a6-466f-8bef-edd9fe51a3f7",
-        "line": 16,
-        "version": 716,
-        "index": 411
+        "id": "70d01116-8f06-45aa-bf27-a57855bd0299",
+        "line": 21,
+        "version": 1557,
+        "index": 483
       }
     ]
   }

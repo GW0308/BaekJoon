@@ -1,11 +1,17 @@
 {
   "files": {
-    "baekjoon/step_7/No10809.java": [
+    "baekjoon/step_7/No2675.java": [
       {
-        "id": "3e6659dd-347b-48b4-bef1-4ab4cbf260fd",
-        "line": 1,
-        "version": 2179,
-        "index": 0
+        "id": "6d363240-01f1-4d84-9501-1c0c3cf6ac92",
+        "line": 28,
+        "version": 1878,
+        "index": 934
+      },
+      {
+        "id": "51f43964-4224-4d2d-9647-a6d69db51bfb",
+        "line": 30,
+        "version": 1829,
+        "index": 979
       }
     ]
   }

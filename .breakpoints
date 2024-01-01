@@ -1,17 +1,11 @@
 {
   "files": {
-    "baekjoon/step_7/No2675.java": [
+    "baekjoon/step_52/No3003.java": [
       {
-        "id": "6d363240-01f1-4d84-9501-1c0c3cf6ac92",
-        "line": 23,
-        "version": 1992,
-        "index": 792
-      },
-      {
-        "id": "51f43964-4224-4d2d-9647-a6d69db51bfb",
-        "line": 25,
-        "version": 1992,
-        "index": 822
+        "id": "14c7f073-bf40-4488-b27c-50b41871d597",
+        "line": 15,
+        "version": 694,
+        "index": 553
       }
     ]
   }

@@ -2,16 +2,16 @@
   "files": {
     "baekjoon/step_52/No1157.java": [
       {
-        "id": "a115dba5-6970-410a-933c-ded5c9b4e5c2",
+        "id": "c28637bc-7873-426c-8758-c43bcc5f206d",
         "line": 16,
-        "version": 2661,
-        "index": 645
+        "version": 3040,
+        "index": 629
       },
       {
-        "id": "cb085268-91c7-4efd-bda0-0ff1be6877e7",
-        "line": 19,
-        "version": 2661,
-        "index": 692
+        "id": "324c07b4-49b3-4d2d-9fba-e0c9baa448fc",
+        "line": 23,
+        "version": 3040,
+        "index": 757
       }
     ]
   }

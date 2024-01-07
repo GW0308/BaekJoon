@@ -1,17 +1,11 @@
 {
   "files": {
-    "baekjoon/step_52/No1157.java": [
+    "baekjoon/step_52/No2941.java": [
       {
-        "id": "c28637bc-7873-426c-8758-c43bcc5f206d",
-        "line": 16,
-        "version": 3040,
-        "index": 629
-      },
-      {
-        "id": "324c07b4-49b3-4d2d-9fba-e0c9baa448fc",
-        "line": 23,
-        "version": 3040,
-        "index": 757
+        "id": "3ee87970-d967-43b7-a246-3b26011a1d8a",
+        "line": 15,
+        "version": 2213,
+        "index": 496
       }
     ]
   }

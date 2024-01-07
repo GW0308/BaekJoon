@@ -25,11 +25,9 @@ public class No1157 {
         }
         else if(count[i]==max){
           maxChr = '?';
-        }
-          
+        }     
       }
    
-
       if(input.length == 1) 
         bw.write(String.valueOf(input[0]));
       else
